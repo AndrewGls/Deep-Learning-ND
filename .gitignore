@@ -1,0 +1,17 @@
+image-classification/.floydignore
+image-classification/cifar-10-batches-py/batches.meta
+image-classification/cifar-10-python.tar.gz
+image-classification/cifar-10-batches-py/data_batch_1
+image-classification/cifar-10-batches-py/data_batch_3
+image-classification/cifar-10-batches-py/data_batch_2
+image-classification/cifar-10-batches-py/data_batch_5
+image-classification/cifar-10-batches-py/data_batch_4
+image-classification/preprocess_batch_1.p
+image-classification/preprocess_batch_2.p
+image-classification/preprocess_batch_3.p
+image-classification/preprocess_batch_4.p
+image-classification/preprocess_batch_5.p
+image-classification/preprocess_validation.p
+image-classification/preprocess_test.p
+image-classification/__pycache__/helper.cpython-35.pyc
+image-classification/__pycache__/problem_unittests.cpython-35.pyc
