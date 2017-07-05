@@ -1,1 +1,1 @@
-# Deep-Learning-ND
+# Udacity Deep Learning Foundation Nanodegree Program
